@@ -348,6 +348,7 @@ header .mobile {
 /* Quotes Section */
 
 #quotes-section {
+  padding: 5em 0;
   background-color: #f3f3f3;
 }
 
