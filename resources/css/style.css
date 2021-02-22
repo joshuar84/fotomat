@@ -348,8 +348,11 @@ header .mobile {
 /* Quotes Section */
 
 #quotes-section {
-  padding: 5em 0;
+  padding: 5rem 0;
   background-color: #f3f3f3;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.875rem;
 }
 
 #quotes-section content {
